@@ -11,8 +11,4 @@ fsd
 asfsd
 sfds
 safasd
-fsd
-asfsd
-sfds
-safasd
 
